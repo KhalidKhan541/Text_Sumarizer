@@ -202,10 +202,10 @@ st.markdown("""
 <div style="padding: 1.8rem 0 0.8rem">
   <p class="section-label"> Model Text Summarizer</p>
   <h1 style="margin:0; font-size:2.2rem; line-height:1.1">
-    API-Driven<br>Text Summarizer
+    <br>Text Summarizer
   </h1>
   <p style="color:#7A756D; margin-top:.5rem; font-size:.95rem; max-width:520px">
-    Summarize long text instantly using the <em>distilbart-cnn-12-6</em> model via Hugging Face's high-performance Inference API.
+    Summarize long text instantly using the <em>encoder decoder model</em> model.
   </p>
 </div>
 """, unsafe_allow_html=True)
