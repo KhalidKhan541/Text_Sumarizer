@@ -192,7 +192,7 @@ with st.sidebar:
     st.caption("Using Model for inference.")
 
     st.divider()
-    st.markdown("**Model:** `distilbart-cnn-6-6`")
+    
     
 
 # ─────────────────────────────────────────────
