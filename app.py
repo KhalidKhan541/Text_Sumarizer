@@ -153,7 +153,7 @@ textarea {
 # ─────────────────────────────────────────────
 # API Configuration
 # ─────────────────────────────────────────────
-HF_API_URL = "https://api-inference.huggingface.co/models/sshleifer/distilbart-cnn-12-6"
+HF_API_URL = "https://router.huggingface.co/hf-inference/models/sshleifer/distilbart-cnn-12-6"
 
 def generate_summary_api(text, token):
     """Call the model for  summarization."""
